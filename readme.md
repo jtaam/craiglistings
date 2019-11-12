@@ -1,1 +1,1 @@
-#This is a craigslist clone called... Codedaddies List.
+# Craiglists Job listing Django App
